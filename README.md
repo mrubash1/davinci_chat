@@ -13,10 +13,7 @@ GRADIO_PASSWORD= "EXAMPLE_PASSWORD"
 3. Install the required libraries `pip install -r requirements.txt` 
 4. run `python app.py` 
 
-### Complete Tutorial: https://youtu.be/n5nn3mQxrE8
-
 ### Sourced information
-- Build Yo'own ChatGPT with OpenAI API &amp; Gradio]
+- ChatGPT with OpenAI API and Gradio Tutorial - by [amrrs](https://github.com/amrrs)
 	- [Code](https://github.com/amrrs/chatgpt-clone)
-	- [Video](https://www.youtube.com/watch?v=n5nn3mQxrE8&ab_channel=1littlecoder
-
+	- [Video](https://www.youtube.com/watch?v=n5nn3mQxrE8&ab_channel=1littlecoder)
